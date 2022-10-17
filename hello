@@ -1,5 +1,5 @@
 #!/bin/bash
 
-NAME="Leia"
+NAME="Hi Leia"
 
 echo "Hello ${NAME}"
